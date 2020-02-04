@@ -1,3 +1,6 @@
+function algoritmo()
+inicio 
+
 Tabla de multiplicar
 inicio
 int numero=0;
@@ -12,4 +15,8 @@ for(contador=0;contador<=10,contador++)
 	mostrar numero + " x " + contador "= " + resultado;
 
 }
+
+
+
+fin
 fin
